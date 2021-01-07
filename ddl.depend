@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1601378641 source:c:\users\sayan\documents\c++ projects\ddl\main.cpp
+	<bits/stdc++.h>
+	<algorithm>
+
